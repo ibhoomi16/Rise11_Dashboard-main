@@ -28,7 +28,7 @@
 4. Start the Development server:
    ```bash
    npm start
-5. Open your browser and go to http://localhost:3000.
+
 
 ## ScreenShots
 ### Desktop View
