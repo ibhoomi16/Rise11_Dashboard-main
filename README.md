@@ -1,8 +1,8 @@
 
-Dashboard Replica
+## Dashboard Replica
 This project is a React-based dashboard application designed to replicate a modern, clean UI. The dashboard includes a Sidebar, a Top Progress Bar, and a Claim Form, built with reusable components for flexibility and ease of customization.
 
-Features
+## Features
 Sidebar:
 
 Navigation menu with options like "Dashboard," "My Cases," "Activities," etc.
