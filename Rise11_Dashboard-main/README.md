@@ -1,26 +1,4 @@
-# Dashboard README
 
-## Approach to Building the Dashboard
-
-The dashboard was built with the following goals in mind:
-
-### Responsiveness
-- Designed to adapt seamlessly to different screen sizes (desktop, tablet, and mobile).
-- Utilized **Tailwind CSS** for its utility-first approach, enabling rapid prototyping and fine-tuned responsive layouts.
-
-### Modern Aesthetic
-- Used **Tailwind’s gradient utilities**, padding, and rounded corners to create a clean and modern user interface.
-- Incorporated icons from **react-icons** for visual clarity and interactivity.
-
-### User Interaction
-- Integrated clickable upload boxes with meaningful placeholder text and functionality.
-- Ensured that every interactive element, such as radio buttons and file upload boxes, is intuitive and visually accessible.
-
-### Alignment Consistency
-- Maintained visual alignment between elements such as step circles and connector lines in the progress bar.
-- Used standardized spacing and grid-based layouts for a cohesive structure.
-
----
 
 ## Challenges Faced and Their Solutions
 
@@ -108,8 +86,6 @@ Spacing inconsistencies between elements (e.g., between upload boxes, circles, a
 ### Desktop View
 ![Desktop View](./src/screenshots/laptop_view_Rise11.png)
 
-### Tablet View
-![Tablet View](./src/screenshots/tablet_view_Rise11.png)
 
 ### Mobile View
 ![Mobile View](./src/screenshots/mobile_view_Rise11.png)
